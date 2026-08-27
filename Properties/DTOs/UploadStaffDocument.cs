@@ -21,3 +21,4 @@ namespace CoffeeNChill.Functions.Properties.DTOs
 
     }
 }
+ 

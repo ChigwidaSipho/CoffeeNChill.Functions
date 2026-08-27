@@ -27,3 +27,4 @@ namespace CoffeeNChill.Functions.Properties.DTOs
         public bool IsAvailable { get; set; }
     }
 }
+ 

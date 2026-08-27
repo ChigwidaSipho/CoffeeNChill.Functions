@@ -11,4 +11,4 @@ namespace CoffeeNChill.Functions.Properties.DTOs
         public double Price { get; set; }
         public bool IsAvailable { get; set; }
     }
-}
+} 
