@@ -10,3 +10,4 @@ namespace CoffeeNChill.Functions.Properties.Models
     {
     }
 }
+ 
