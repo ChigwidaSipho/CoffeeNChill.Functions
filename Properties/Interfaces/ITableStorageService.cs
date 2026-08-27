@@ -19,3 +19,9 @@ namespace CoffeeNChill.Functions.Properties.Interfaces
         Task<bool> DeleteMenuItemAsync(string category, string sku);
     }
 } 
+
+
+
+
+
+

@@ -93,5 +93,5 @@ namespace CoffeeNChill.Functions.Properties.Services
                 return false;
             }
         }
-    }
+    } 
 }
