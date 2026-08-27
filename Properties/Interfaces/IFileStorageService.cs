@@ -18,4 +18,4 @@ namespace CoffeeNChill.Functions.Properties.Interfaces
 
         Task<List<StaffDocument>> GetaLLDocumentsAsync();
     }
-}
+} 
