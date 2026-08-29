@@ -14,7 +14,7 @@ namespace CoffeeNChill.Functions.Properties.Functions
         public GetAllMenuItemsFunction(ITableStorageService service, ILogger<GetAllMenuItemsFunction> logger)
         {
             _service = service;
-            _logger = logger;
+            _logger = logger; 
         }
 
         [Function("GetAllMenuItems")]
