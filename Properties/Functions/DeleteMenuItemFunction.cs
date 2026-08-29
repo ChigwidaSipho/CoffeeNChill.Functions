@@ -10,7 +10,7 @@ namespace CoffeeNChill.Functions.Properties.Functions
     {
         private readonly ITableStorageService _service;
         private readonly ILogger<DeleteMenuItemFunction> _logger;
-
+         
         public DeleteMenuItemFunction(ITableStorageService service, ILogger<DeleteMenuItemFunction> logger)
         {
             _service = service;
