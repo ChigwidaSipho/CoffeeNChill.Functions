@@ -46,7 +46,7 @@ namespace CoffeeNChill.Functions.Properties.Functions
             var updated = await _service.UpdateMenuItemAsync(category, id, request);
             var response = req.CreateResponse(HttpStatusCode.OK);
             await response.WriteAsJsonAsync(updated);
-            return response;
+            return response; 
         }
 
         private static string? Validate(UpdateMenuItemRequest request)
