@@ -15,7 +15,7 @@ namespace CoffeeNChill.Functions.Properties.Functions
         {
             _service = service;
             _logger = logger;
-        }
+        } 
 
         [Function("GetMenuItem")]
         public async Task<HttpResponseData> Run(
